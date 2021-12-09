@@ -1,0 +1,1 @@
+OpenSpace=||=sys.openspace.png=||=window.location.href='openspace.php';
