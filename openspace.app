@@ -1,1 +1,1 @@
-OpenSpace|[1]|sys.openspace.png|[1]|window.location.href='openspace.php';
+OpenSpace|[1]|sys.space.png|[1]|window.location.href='openspace.php';

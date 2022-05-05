@@ -13,7 +13,7 @@ $controls = ($_REQUEST['controls']) ? $_REQUEST['controls'] : 'no';
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta charset="UTF-8">
 <title>OpenSpace</title>
-<link rel="shortcut icon" href="sys.openspace.png?rev=<?=time();?>" type="image/x-icon">
+<link rel="shortcut icon" href="sys.space.png?rev=<?=time();?>" type="image/x-icon">
 <?php if (file_exists($coordForm.'.css')) { ?>
 <link href="<?=$coordForm.'.css';?>?rev=<?=time();?>" rel="stylesheet">
 <?php } else { ?>
